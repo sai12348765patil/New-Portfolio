@@ -12,9 +12,8 @@ export const Bio = {
   resume:
     "https://drive.google.com/file/d/1IXDn-INB4dI5ExPSAPxL4zU1kIBsydV6/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/saiprasad-khansole-08561b227/",
-  twitter: "https://twitter.com/RishavChanda",
-  insta: "https://www.instagram.com/rishav_chanda/",
-  facebook: "https://www.facebook.com/rishav.chanda.165/",
+  insta: "https://www.instagram.com/i_am_smile100/",
+  facebook: "https://www.facebook.com/profile.php?id=100008026848629",
 };
 
 export const skills = [
@@ -177,30 +176,39 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Kiit.jpeg?alt=media&token=3839d520-c59d-4341-ad8f-0980c98de4dd",
-    school: "Kalinga Institute of Industrial Technology, Bhubaneswar",
-    date: "Oct 2021 - Sep 2025",
-    grade: "8.71 CGPA",
-    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Kalinga Institute of Industrial Technology, Bhubaneswar. I have completed 4 semesters and have a CGPA of 8.71. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I am also a member of the Google Developers Student Club (GDSC) at KIIT, where I am learning and working on exciting projects with a team of talented developers.",
-    degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHdbiO-2J1s7feLBBJ3U9SyJOO0rOvubsAEQ&s",
+    school: "Sir Parashurambhau College Pune, Maharashtra",
+    date: "june 2016 - may 2019",
+    grade: "7.0 CGPA",
+    desc: "I pursued a Bachelor's degree in Physics at Sir Parashurambhau College Pune. I have completed 6 semesters and have a CGPA of 7.0. I have taken courses in Physics, Maths, among others.",
+    degree: "Bachelor of Science - Physics",
+  },
+  {
+    id: 0,
+    img: "https://ycmou.ac.in/media/front/images/main-slider/slide4.jpg",
+    school: "Yashwantrao Chavan Maharashtra Open University Nashik, Maharashtra",
+    date: "june 2017 - may 2021",
+    grade: "7.8 CGPA",
+    desc: "I pursued a Bachelor's degree in Arts at Yashwantrao Chavan Maharashtra Open University Nashik. I have completed 6 semesters and have a CGPA of 7.8. I have taken courses in English, Economics, among others.",
+    degree: "Bachelor of Arts - English",
   },
   {
     id: 1,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
-    school: "Methodist School, Dankuni",
-    date: "Apr 2019 - Apr 2025",
-    grade: "88.2%",
-    desc: "I completed my class 12 high school education at Methodist School, Dankuni, where I studied Science with Computer Science.",
-    degree: "ISC(XII), Science with Computer",
+    img: "https://media.licdn.com/dms/image/v2/D4D0BAQFljNRvgXalTg/company-logo_200_200/company-logo_200_200/0/1696831540560?e=2147483647&v=beta&t=XQn_t0rTTyxjt4p9FWaTyE_0cjOP0AM9NU8uImtYPRc",
+    school: "Yashwant collage, Nanded.",
+    date: "Apr 2014 - Apr 2016",
+    grade: "60.2%",
+    desc: "I completed my class 12 high school education at Yashwant collage, Nanded. where I studied Science with Computer Science.",
+    degree: "HSC(XII), Science with Computer",
   },
   {
     id: 2,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
-    school: "Methodist School, Dankuni",
-    date: "Apr 2017 - Apr 2019",
-    grade: "92.3%",
-    desc: "I completed my class 10 education at Methodist School, Dankuni, where I studied Science with Computer Application.",
-    degree: "ICSC(X), Science with Computer",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxfW-s4M6uwVfcv83fQQiEjFHZ5w8PPKKjLQ&s",
+    school: "Mahatma Phule HighSchool, Nanded",
+    date: "Apr 2013 - May 2014",
+    grade: "90.3%",
+    desc: "I completed my class 10 education at Mahatma Phule HighSchool, Nanded, where I studied Science with Computer Application.",
+    degree: "SSC(X), Science with Computer",
   },
 ];
 
@@ -256,6 +264,32 @@ export const projects = [
     category: "web app",
     github: "https://royalbrothers-clone.netlify.app",
     webapp: "https://royalbrothers-clone.netlify.app/",
+  },
+  {
+    id: 9,
+    title: "Carship Mobile App",
+    date: "Dec 2023 - Feb 2024",
+    description:
+      "The mobile app which you can sell, buy, inspect the cars from online. integrated the push notification, payment gatway like razorpay and stripe. also done perfect user interface sign up , login. there are four flows in this app. I done only the Fronted part.",
+    image:
+      "https://carship.app/images/blog/CARSHIP_Cover.webp",
+    tags: [
+      "React-Native", "CSS" , "Javascript" ,"Typescripts"
+    ],
+    category: "web app",
+  },
+  {
+    id: 9,
+    title: "Ecom Mobile App",
+    date: "Feb 2024 - present",
+    description:
+      "Ecom mobile app is completely dynamic project, on which we can handle all things from admin pannel even we can change mobile theme, splash screens,store details, colors, all products. in this app did not use a single statci word or image all we can handled from backend.I worked on only fronted part of this project. ",
+    image:
+      "https://5.imimg.com/data5/SW/BC/PD/SELLER-30754986/e-commerce-app-development-500x500.jpg",
+    tags: [
+      "React-Native", "CSS" , "Javascript" ,"Typescripts"
+    ],
+    category: "web app",
   },
 ];
 
