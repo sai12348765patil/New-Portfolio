@@ -226,18 +226,7 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/Nandakishorpalei/cb2-clone",
-  },
-  {
-    id: 0,
-    title: "Weather-App",
-    date: "sept 2021 - oct 2021",
-    description:
-      "Developed Weather app by using react js and free weather api's. anf trying to developed the perfect UI for weather app",
-    image:
-      "https://bigsondev.com/static/152080ab66d22504c762930a86fa816e/ee604/weather-app.png",
-    tags: ["React Js", "javascripts", "Typescripts", "HTML", "CSS"],
-    category: "web app",
-    github: "https://github.com/sai12348765patil/Weather-App/tree/main",
+    webapp:"https://nandakishorpalei.github.io/cb2-clone/"
   },
   {
     id: 1,
@@ -252,6 +241,7 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/Akshay-Kumar2000/HealthMug-Clone",
+    webapp: "https://healthmug.vercel.app/",
   },
   {
     id: 3,
@@ -262,34 +252,8 @@ export const projects = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR-MYJyIwQgY4n5nh6Qjrqcn1yT3CMDpSq3Q&s",
     tags: [ "HTML", "CSS" , "Javascript" , "Express" , "Nodejs", "Typescripts"],
     category: "web app",
-    github: "https://royalbrothers-clone.netlify.app",
+    github: "https://github.com/sahilgarg29/royalbrothers-frontend",
     webapp: "https://royalbrothers-clone.netlify.app/",
-  },
-  {
-    id: 9,
-    title: "Carship Mobile App",
-    date: "Dec 2023 - Feb 2024",
-    description:
-      "The mobile app which you can sell, buy, inspect the cars from online. integrated the push notification, payment gatway like razorpay and stripe. also done perfect user interface sign up , login. there are four flows in this app. I done only the Fronted part.",
-    image:
-      "https://carship.app/images/blog/CARSHIP_Cover.webp",
-    tags: [
-      "React-Native", "CSS" , "Javascript" ,"Typescripts"
-    ],
-    category: "web app",
-  },
-  {
-    id: 9,
-    title: "Ecom Mobile App",
-    date: "Feb 2024 - present",
-    description:
-      "Ecom mobile app is completely dynamic project, on which we can handle all things from admin pannel even we can change mobile theme, splash screens,store details, colors, all products. in this app did not use a single statci word or image all we can handled from backend.I worked on only fronted part of this project. ",
-    image:
-      "https://5.imimg.com/data5/SW/BC/PD/SELLER-30754986/e-commerce-app-development-500x500.jpg",
-    tags: [
-      "React-Native", "CSS" , "Javascript" ,"Typescripts"
-    ],
-    category: "web app",
   },
 ];
 
