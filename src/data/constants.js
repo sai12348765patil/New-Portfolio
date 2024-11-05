@@ -10,7 +10,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/sai12348765patil",
   resume:
-    "https://drive.google.com/file/d/1IXDn-INB4dI5ExPSAPxL4zU1kIBsydV6/view?usp=sharing",
+    "https://drive.google.com/file/d/1Z4alrQjZ-AmQP03-ODR8c4n13wfqbiP2/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/saiprasad-khansole-08561b227/",
   insta: "https://www.instagram.com/i_am_smile100/",
   facebook: "https://www.facebook.com/profile.php?id=100008026848629",
