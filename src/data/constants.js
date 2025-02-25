@@ -10,7 +10,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/sai12348765patil",
   resume:
-    "https://drive.google.com/file/d/1Z4alrQjZ-AmQP03-ODR8c4n13wfqbiP2/view?usp=sharing",
+    "https://drive.google.com/file/d/16rd9RFzsKD183aehVuWh6gtlrftnVhoS/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/saiprasad-khansole-08561b227/",
   insta: "https://www.instagram.com/i_am_smile100/",
   facebook: "https://www.facebook.com/profile.php?id=100008026848629",
@@ -134,10 +134,27 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
+    img: "https://media.licdn.com/dms/image/v2/D4D0BAQFt28a2F5KCQg/company-logo_200_200/company-logo_200_200/0/1733730482845/byzwiz_logo?e=2147483647&v=beta&t=PbY4OVzMHUl50_YGarv27RmFHqGrJmNkOnVkJ-UQLSw",
+    role: "Fronted React-Native Developer",
+    company: "ByzWiz Infratech Pvt. Ltd.",
+    date: "Dec 2024 - Present",
+    desc: "Working on E-commerce Mobile App Integrating seller and Buyer flow From the scratching.",
+    skills: [
+      "React-Native",
+      "JavaScript",
+      "TypeScript",
+      "Unit testing",
+      "Android",
+      "Ios",
+      "Build Fixes"
+    ],
+  },
+  {
+    id: 0,
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHGOJGZZTz5WjPPsH3U6Y9Cy2MCg42Fvyzmw&s",
     role: "React-Native Developer",
     company: "Metafic.co",
-    date: "June 2022 - Present",
+    date: "June 2022 - Nov 2024",
     desc: "developing mobile applications for iOS and Android platforms. Proficient in using React.js, JavaScript, and Git for creating robust and user-friendly interfaces.",
     skills: [
       "React-Native",
